@@ -1,0 +1,51 @@
+export default classes = [
+  {
+    id: '1',
+    name: 'Mathematics I',
+    text: 'M',
+    dec: 'You are marked present',
+    timeStart: '09:30 am',
+  },
+  {
+    id: '2',
+    name: 'Physics',
+    text: 'P',
+    dec: 'You are marked present',
+    timeStart: '10:40 am',
+  },
+  {
+    id: '3',
+    name: 'Biology',
+    text: 'B',
+    dec: 'You are marked present',
+    timeStart: '11:45 am',
+  },
+  {
+    id: '4',
+    name: 'Geography',
+    text: 'G',
+    dec: 'You are marked present',
+    timeStart: '12:10 pm',
+  },
+  {
+    id: '5',
+    name: 'Chemistry',
+    text: 'CM',
+    dec: 'You are marked present',
+    timeStart: '12:45 pm',
+  },
+  {
+    id: '6',
+    name: 'Class ^',
+    text: 'M',
+    dec: 'You are marked present',
+    timeStart: '15:30 pm',
+  },
+  {
+    id: '7',
+    name: 'Class Seven',
+    text: 'CS',
+    dec: 'You are marked present',
+    timeStart: '17:30 pm',
+  },
+];
